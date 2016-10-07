@@ -176,30 +176,30 @@ from public sources and replacing the online course videos over time. I like usi
 
 ## Interview Process & General Interview Prep
 
-- [x] Videos:
-    - [x] https://www.youtube.com/watch?v=oWbUtlUhwa8&feature=youtu.be
-    - [x] https://www.youtube.com/watch?v=qc1owf2-220&feature=youtu.be
-    - [x] https://www.youtube.com/watch?v=8npJLXkcmu8
+- [] Videos:
+    - [] https://www.youtube.com/watch?v=oWbUtlUhwa8&feature=youtu.be
+    - [] https://www.youtube.com/watch?v=qc1owf2-220&feature=youtu.be
+    - [] https://www.youtube.com/watch?v=8npJLXkcmu8
 
-- [x] Articles:
-    - [x] http://www.google.com/about/careers/lifeatgoogle/hiringprocess/
-    - [x] http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html
+- [] Articles:
+    - [] http://www.google.com/about/careers/lifeatgoogle/hiringprocess/
+    - [] http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html
         - all the things he mentions that you need to know are listed below
-    - [x] _(very dated)_ http://dondodge.typepad.com/the_next_big_thing/2010/09/how-to-get-a-job-at-google-interview-questions-hiring-process.html
-    - [x] http://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions
+    - [] _(very dated)_ http://dondodge.typepad.com/the_next_big_thing/2010/09/how-to-get-a-job-at-google-interview-questions-hiring-process.html
+    - [] http://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions
 
-- [x] Additional (not suggested by Google but I added):
-    - [x] https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4
-    - [x] https://medium.com/always-be-coding/four-steps-to-google-without-a-degree-8f381aa6bd5e#.asalo1vfx
-    - [x] https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1
-    - [x] http://www.kpcb.com/blog/lessons-learned-how-google-thinks-about-hiring-management-and-culture
-    - [x] http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/
-    - [x] Cracking The Coding Interview Set 1:
-        - [x] https://www.youtube.com/watch?v=rEJzOhC5ZtQ
-        - [x] https://www.youtube.com/watch?v=aClxtDcdpsQ
-    - [x] How to Get a Job at the Big 4:
-        - [x] https://www.youtube.com/watch?v=YJZCUhxNCv8
-    - [x] http://alexbowe.com/failing-at-google-interviews/
+- [] Additional (not suggested by Google but I added):
+    - [] https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2#.4heg8zvm4
+    - [] https://medium.com/always-be-coding/four-steps-to-google-without-a-degree-8f381aa6bd5e#.asalo1vfx
+    - [] https://medium.com/@dpup/whiteboarding-4df873dbba2e#.hf6jn45g1
+    - [] http://www.kpcb.com/blog/lessons-learned-how-google-thinks-about-hiring-management-and-culture
+    - [] http://www.coderust.com/blog/2014/04/10/effective-whiteboarding-during-programming-interviews/
+    - [] Cracking The Coding Interview Set 1:
+        - [] https://www.youtube.com/watch?v=rEJzOhC5ZtQ
+        - [] https://www.youtube.com/watch?v=aClxtDcdpsQ
+    - [] How to Get a Job at the Big 4:
+        - [] https://www.youtube.com/watch?v=YJZCUhxNCv8
+    - [] http://alexbowe.com/failing-at-google-interviews/
 
 
 ## Prerequisite Knowledge
@@ -217,62 +217,62 @@ You need to be very comfortable in the language, and be knowledgeable. Read more
 
 You'll see some C, C++, and Python learning included below, because I'm learning. There are a few books involved, see the bottom.
 
-- [x] **How computers process a program:**
-    - [x] https://www.youtube.com/watch?v=42KTvGYQYnA
-    - [x] https://www.youtube.com/watch?v=Mv2XQgpbTNE
+- [] **How computers process a program:**
+    - [] https://www.youtube.com/watch?v=42KTvGYQYnA
+    - [] https://www.youtube.com/watch?v=Mv2XQgpbTNE
 
-- [x] **How floating point numbers are stored:**
-    - [x] simple 8-bit: http://math.stackexchange.com/questions/301435/fractions-in-binary
-    - [x] 32 bit: https://www.youtube.com/watch?v=ji3SfClm8TU
-    - [x] 64 bit: https://www.youtube.com/watch?v=50ZYcZebIec
+- [] **How floating point numbers are stored:**
+    - [] simple 8-bit: http://math.stackexchange.com/questions/301435/fractions-in-binary
+    - [] 32 bit: https://www.youtube.com/watch?v=ji3SfClm8TU
+    - [] 64 bit: https://www.youtube.com/watch?v=50ZYcZebIec
 
-- [x] **Computer Arch Intro:**
+- [] **Computer Arch Intro:**
     (first video only - interesting but not required) https://www.youtube.com/watch?v=zLP_X4wyHbY&list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq&index=1
 
-- [x] **C**
-    - [x] [ANSI C Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/C%20Reference%20Card%20(ANSI)%202.2.pdf)
-    - [x] K&R C book (ANSI C)
-    - [x] Clang: https://www.youtube.com/watch?v=U3zCxnj2w8M
-    - [x] GDB:
+- [] **C**
+    - [] [ANSI C Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/C%20Reference%20Card%20(ANSI)%202.2.pdf)
+    - [] K&R C book (ANSI C)
+    - [] Clang: https://www.youtube.com/watch?v=U3zCxnj2w8M
+    - [] GDB:
         - https://www.youtube.com/watch?v=USPvePv1uzE
         - https://www.youtube.com/watch?v=y5JmQItfFck
       - Valgrind: https://www.youtube.com/watch?v=fvTsFjDuag8
-- [x] **C++**
-    - [x] [C++ Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/Cpp_reference.pdf)
-    - [x] [STL Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/STL%20Quick%20Reference%201.29.pdf)
-    - [x] basics
-    - [x] pointers
-    - [x] functions
-    - [x] references
-    - [x] templates
-    - [x] compilation
-    - [x] scope & linkage
-    - [x] namespaces
-    - [x] OOP
-    - [x] STL
-    - [x] functors: http://www.cprogramming.com/tutorial/functors-function-objects-in-c++.html
-    - [x] C++ at Google: https://www.youtube.com/watch?v=NOCElcMcFik
-    - [x] Google C++ Style Guide: https://google.github.io/styleguide/cppguide.html
-        - [x] Google uses clang-format (there is a command line "style" argument: -style=google)
-    - [x] Efficiency with Algorithms, Performance with Data Structures: https://youtu.be/fHNmRkzxHWs
-    - [x] review of C++ concepts: https://www.youtube.com/watch?v=Rub-JsjMhWY
+- [] **C++**
+    - [] [C++ Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/Cpp_reference.pdf)
+    - [] [STL Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/STL%20Quick%20Reference%201.29.pdf)
+    - [] basics
+    - [] pointers
+    - [] functions
+    - [] references
+    - [] templates
+    - [] compilation
+    - [] scope & linkage
+    - [] namespaces
+    - [] OOP
+    - [] STL
+    - [] functors: http://www.cprogramming.com/tutorial/functors-function-objects-in-c++.html
+    - [] C++ at Google: https://www.youtube.com/watch?v=NOCElcMcFik
+    - [] Google C++ Style Guide: https://google.github.io/styleguide/cppguide.html
+        - [] Google uses clang-format (there is a command line "style" argument: -style=google)
+    - [] Efficiency with Algorithms, Performance with Data Structures: https://youtu.be/fHNmRkzxHWs
+    - [] review of C++ concepts: https://www.youtube.com/watch?v=Rub-JsjMhWY
 
-- [x] **Python**
-    - [x] [Python Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/python-cheat-sheet-v1.pdf)
-    - [x] Python in One Video: https://www.youtube.com/watch?v=N4mEzFDjqtA
-    - [x] Series on 3.4: https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_
-    - [x] Zero to Hero: https://www.youtube.com/watch?v=emY34tSKXc4
-    - [x] Statistics for Hackers: https://www.youtube.com/watch?v=Iq9DzN6mvYA
-    - [x] Faster Python: https://www.youtube.com/watch?v=JDSGVvMwNM8
-    - [x] CPython Walk: https://www.youtube.com/watch?v=LhadeL7_EIU&list=PLzV58Zm8FuBL6OAv1Yu6AwXZrnsFbbR0S&index=6
-    - [x] 10 Tips for Pythonic Code: https://www.youtube.com/watch?v=_O23jIXsshs
-    - [x] Beyond PEP 8 -- Best practices for beautiful intelligible code: https://www.youtube.com/watch?v=wf-BqAjZb8M
+- [] **Python**
+    - [] [Python Cheat Sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/python-cheat-sheet-v1.pdf)
+    - [] Python in One Video: https://www.youtube.com/watch?v=N4mEzFDjqtA
+    - [] Series on 3.4: https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_
+    - [] Zero to Hero: https://www.youtube.com/watch?v=emY34tSKXc4
+    - [] Statistics for Hackers: https://www.youtube.com/watch?v=Iq9DzN6mvYA
+    - [] Faster Python: https://www.youtube.com/watch?v=JDSGVvMwNM8
+    - [] CPython Walk: https://www.youtube.com/watch?v=LhadeL7_EIU&list=PLzV58Zm8FuBL6OAv1Yu6AwXZrnsFbbR0S&index=6
+    - [] 10 Tips for Pythonic Code: https://www.youtube.com/watch?v=_O23jIXsshs
+    - [] Beyond PEP 8 -- Best practices for beautiful intelligible code: https://www.youtube.com/watch?v=wf-BqAjZb8M
 
-- [x] **Compilers**
-    - [x] https://class.coursera.org/compilers-004/lecture/1
-    - [x] https://class.coursera.org/compilers-004/lecture/2
-    - [x] C++: https://www.youtube.com/watch?v=twodd1KFfGk
-    - [x] Understanding Compiler Optimization (C++): https://www.youtube.com/watch?v=FnGCDLhaxKU
+- [] **Compilers**
+    - [] https://class.coursera.org/compilers-004/lecture/1
+    - [] https://class.coursera.org/compilers-004/lecture/2
+    - [] C++: https://www.youtube.com/watch?v=twodd1KFfGk
+    - [] Understanding Compiler Optimization (C++): https://www.youtube.com/watch?v=FnGCDLhaxKU
 
 ## The Daily Plan
 
@@ -311,24 +311,24 @@ Then test it out on a computer to make sure it's not buggy from syntax.
 
 ## Algorithmic complexity / Big-O / Asymptotic analysis
 - nothing to implement
-- [x] Harvard CS50 - Asymptotic Notation: https://www.youtube.com/watch?v=iOq5kSKqeR4
-- [x] Big O Notations (general quick tutorial) - https://www.youtube.com/watch?v=V6mKVRU1evU
-- [x] Big O Notation (and Omega and Theta) - best mathematical explanation:
+- [] Harvard CS50 - Asymptotic Notation: https://www.youtube.com/watch?v=iOq5kSKqeR4
+- [] Big O Notations (general quick tutorial) - https://www.youtube.com/watch?v=V6mKVRU1evU
+- [] Big O Notation (and Omega and Theta) - best mathematical explanation:
     - https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN
-- [x] Skiena:
+- [] Skiena:
     - video: https://www.youtube.com/watch?v=gSyDMtdPNpU&index=2&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b
     - slides: http://www3.cs.stonybrook.edu/~algorith/video-lectures/2007/lecture2.pdf
-- [x] A Gentle Introduction to Algorithm Complexity Analysis: http://discrete.gr/complexity/
-- [x] Orders of Growth: https://class.coursera.org/algorithmicthink1-004/lecture/59
-- [x] Asymptotics: https://class.coursera.org/algorithmicthink1-004/lecture/61
-- [x] UC Berkeley Big O: https://youtu.be/VIS4YDpuP98
-- [x] UC Berkeley Big Omega: https://youtu.be/ca3e7UVmeUc
-- [x] Amortized Analysis: https://www.youtube.com/watch?v=B3SpQZaAZP4&index=10&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN
-- [x] Illustrating "Big O": https://class.coursera.org/algorithmicthink1-004/lecture/63
-- [x] TopCoder (includes recurrence relations and master theorem):
+- [] A Gentle Introduction to Algorithm Complexity Analysis: http://discrete.gr/complexity/
+- [] Orders of Growth: https://class.coursera.org/algorithmicthink1-004/lecture/59
+- [] Asymptotics: https://class.coursera.org/algorithmicthink1-004/lecture/61
+- [] UC Berkeley Big O: https://youtu.be/VIS4YDpuP98
+- [] UC Berkeley Big Omega: https://youtu.be/ca3e7UVmeUc
+- [] Amortized Analysis: https://www.youtube.com/watch?v=B3SpQZaAZP4&index=10&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN
+- [] Illustrating "Big O": https://class.coursera.org/algorithmicthink1-004/lecture/63
+- [] TopCoder (includes recurrence relations and master theorem):
     - Computational Complexity: Section 1: https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-1/
     - Computational Complexity: Section 2: https://www.topcoder.com/community/data-science/data-science-tutorials/computational-complexity-section-2/
-- [x] Cheat sheet: http://bigocheatsheet.com/
+- [] Cheat sheet: http://bigocheatsheet.com/
 
 
     If some of the lectures are too mathy, you can jump down to the bottom and
@@ -338,7 +338,7 @@ Then test it out on a computer to make sure it's not buggy from syntax.
 
 - ### Arrays
     - Implement an automatically resizing vector.
-    - [x] Description:
+    - [] Description:
         - Arrays: https://www.coursera.org/learn/data-structures/lecture/OsBSF/arrays
         - Arrays: https://www.lynda.com/Developer-Programming-Foundations-tutorials/Basic-arrays/149042/177104-4.html
         - Multi-dim: https://www.lynda.com/Developer-Programming-Foundations-tutorials/Multidimensional-arrays/149042/177105-4.html
@@ -346,86 +346,86 @@ Then test it out on a computer to make sure it's not buggy from syntax.
         - Jagged: https://www.lynda.com/Developer-Programming-Foundations-tutorials/Jagged-arrays/149042/177106-4.html
         - Resizing arrays:
             - https://www.lynda.com/Developer-Programming-Foundations-tutorials/Resizable-arrays/149042/177108-4.html
-    - [x] Implement a vector (mutable array with automatic resizing):
-        - [x] Practice coding using arrays and pointers, and pointer math to jump to an index instead of using indexing.
-        - [x] new raw data array with allocated memory
+    - [] Implement a vector (mutable array with automatic resizing):
+        - [] Practice coding using arrays and pointers, and pointer math to jump to an index instead of using indexing.
+        - [] new raw data array with allocated memory
             - can allocate int array under the hood, just not use its features
             - start with 16, or if starting number is greater, use power of 2 - 16, 32, 64, 128
-        - [x] size() - number of items
-        - [x] capacity() - number of items it can hold
-        - [x] is_empty()
-        - [x] at(index) - returns item at given index, blows up if index out of bounds
-        - [x] push(item)
-        - [x] insert(index, item) - inserts item at index, shifts that index's value and trailing elements to the right
-        - [x] prepend(item) - can use insert above at index 0
-        - [x] pop() - remove from end, return value
-        - [x] delete(index) - delete item at index, shifting all trailing elements left
-        - [x] remove(item) - looks for value and removes index holding it (even if in multiple places)
-        - [x] find(item) - looks for value and returns first index with that value, -1 if not found
-        - [x] resize(new_capacity) // private function
+        - [] size() - number of items
+        - [] capacity() - number of items it can hold
+        - [] is_empty()
+        - [] at(index) - returns item at given index, blows up if index out of bounds
+        - [] push(item)
+        - [] insert(index, item) - inserts item at index, shifts that index's value and trailing elements to the right
+        - [] prepend(item) - can use insert above at index 0
+        - [] pop() - remove from end, return value
+        - [] delete(index) - delete item at index, shifting all trailing elements left
+        - [] remove(item) - looks for value and removes index holding it (even if in multiple places)
+        - [] find(item) - looks for value and returns first index with that value, -1 if not found
+        - [] resize(new_capacity) // private function
             - when you reach capacity, resize to double the size
             - when popping an item, if size is 1/4 of capacity, resize to half
-    - [x] Time
+    - [] Time
         - O(1) to add/remove at end (amortized for allocations for more space), index, or update
         - O(n) to insert/remove elsewhere
-    - [x] Space
+    - [] Space
         - contiguous in memory, so proximity helps performance
         - space needed = (array capacity, which is >= n) * size of item, but even if 2n, still O(n)
 
 - ### Linked Lists
-    - [x] Description:
-        - [x] https://www.coursera.org/learn/data-structures/lecture/kHhgK/singly-linked-lists
-        - [x] CS 61B - Linked lists: https://www.youtube.com/watch?v=sJtJOtXCW_M&list=PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd&index=5
-    - [x] C Code: https://www.youtube.com/watch?v=QN6FPiD0Gzo
+    - [] Description:
+        - [] https://www.coursera.org/learn/data-structures/lecture/kHhgK/singly-linked-lists
+        - [] CS 61B - Linked lists: https://www.youtube.com/watch?v=sJtJOtXCW_M&list=PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd&index=5
+    - [] C Code: https://www.youtube.com/watch?v=QN6FPiD0Gzo
             - not the whole video, just portions about Node struct and memory allocation.
-    - [x] Linked List vs Arrays:
+    - [] Linked List vs Arrays:
         - https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/rjBs9/core-linked-lists-vs-arrays
         - https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/QUaUd/in-the-real-world-lists-vs-arrays
-    - [x] why you should avoid linked lists:
+    - [] why you should avoid linked lists:
         - https://www.youtube.com/watch?v=YQs6IC-vgmo
-    - [x] Gotcha: you need pointer to pointer knowledge:
+    - [] Gotcha: you need pointer to pointer knowledge:
         (for when you pass a pointer to a function that may change the address where that pointer points)
         This page is just to get a grasp on ptr to ptr. I don't recommend this list traversal style. Readability and maintainability suffer due to cleverness.
         - https://www.eskimo.com/~scs/cclass/int/sx8.html
-    - [x] implement (I did with tail pointer & without):
-        - [x] size() - returns number of data elements in list
-        - [x] empty() - bool returns true if empty
-        - [x] value_at(index) - returns the value of the nth item (starting at 0 for first)
-        - [x] push_front(value) - adds an item to the front of the list
-        - [x] pop_front() - remove front item and return its value
-        - [x] push_back(value) - adds an item at the end
-        - [x] pop_back() - removes end item and returns its value
-        - [x] front() - get value of front item
-        - [x] back() - get value of end item
-        - [x] insert(index, value) - insert value at index, so current item at that index is pointed to by new item at index
-        - [x] erase(index) - removes node at given index
-        - [x] value_n_from_end(n) - returns the value of the node at nth position from the end of the list
-        - [x] reverse() - reverses the list
-        - [x] remove_value(value) - removes the first item in the list with this value
-    - [x] Doubly-linked List
+    - [] implement (I did with tail pointer & without):
+        - [] size() - returns number of data elements in list
+        - [] empty() - bool returns true if empty
+        - [] value_at(index) - returns the value of the nth item (starting at 0 for first)
+        - [] push_front(value) - adds an item to the front of the list
+        - [] pop_front() - remove front item and return its value
+        - [] push_back(value) - adds an item at the end
+        - [] pop_back() - removes end item and returns its value
+        - [] front() - get value of front item
+        - [] back() - get value of end item
+        - [] insert(index, value) - insert value at index, so current item at that index is pointed to by new item at index
+        - [] erase(index) - removes node at given index
+        - [] value_n_from_end(n) - returns the value of the node at nth position from the end of the list
+        - [] reverse() - reverses the list
+        - [] remove_value(value) - removes the first item in the list with this value
+    - [] Doubly-linked List
         - Description: https://www.coursera.org/learn/data-structures/lecture/jpGKD/doubly-linked-lists
         - No need to implement
 
 - ### Stack
-    - [x] https://www.coursera.org/learn/data-structures/lecture/UdKzQ/stacks
-    - [x] https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-stacks-last-first-out/149042/177120-4.html
-    - [x] Will not implement. Implementing with array is trivial.
+    - [] https://www.coursera.org/learn/data-structures/lecture/UdKzQ/stacks
+    - [] https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-stacks-last-first-out/149042/177120-4.html
+    - [] Will not implement. Implementing with array is trivial.
 
 - ### Queue
-    - [x] https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-queues-first-first-out/149042/177122-4.html
-    - [x] https://www.coursera.org/learn/data-structures/lecture/EShpq/queue
-    - [x] Circular buffer/FIFO: https://en.wikipedia.org/wiki/Circular_buffer
-    - [x] https://www.lynda.com/Developer-Programming-Foundations-tutorials/Priority-queues-deques/149042/177123-4.html
-    - [x] Implement using linked-list, with tail pointer:
+    - [] https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-queues-first-first-out/149042/177122-4.html
+    - [] https://www.coursera.org/learn/data-structures/lecture/EShpq/queue
+    - [] Circular buffer/FIFO: https://en.wikipedia.org/wiki/Circular_buffer
+    - [] https://www.lynda.com/Developer-Programming-Foundations-tutorials/Priority-queues-deques/149042/177123-4.html
+    - [] Implement using linked-list, with tail pointer:
         - enqueue(value) - adds value at position at tail
         - dequeue() - returns value and removes least recently added element (front)
         - empty()
-    - [x] Implement using fixed-sized array:
+    - [] Implement using fixed-sized array:
         - enqueue(value) - adds item at end of available storage
         - dequeue() - returns value and removes least recently added element
         - empty()
         - full()
-    - [x] Cost:
+    - [] Cost:
         - a bad implementation using linked list where you enqueue at head and dequeue at tail would be O(n)
             because you'd need the next to last element, causing a full traversal each dequeue
         - enqueue: O(1) (amortized, linked list and array [probing])
@@ -433,27 +433,27 @@ Then test it out on a computer to make sure it's not buggy from syntax.
         - empty: O(1) (linked list and array)
     
 - ### Hash table
-    - [x] Videos:
-        - [x] Hashing with Chaining: https://www.youtube.com/watch?v=0M_kIqhwbFo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=8
-        - [x] Table Doubling, Karp-Rabin: https://www.youtube.com/watch?v=BRO7mVIFt08&index=9&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
-        - [x] Open Addressing, Cryptographic Hashing: https://www.youtube.com/watch?v=rvdJDijO2Ro&index=10&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
-        - [x] PyCon 2010: The Mighty Dictionary: https://www.youtube.com/watch?v=C4Kc8xzcA68
-        - [x] (Advanced) Randomization: Universal & Perfect Hashing: https://www.youtube.com/watch?v=z0lJ2k0sl1g&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=11
-        - [x] (Advanced) Perfect hashing: https://www.youtube.com/watch?v=N0COwN14gt0&list=PL2B4EEwhKD-NbwZ4ezj7gyc_3yNrojKM9&index=4
+    - [] Videos:
+        - [] Hashing with Chaining: https://www.youtube.com/watch?v=0M_kIqhwbFo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=8
+        - [] Table Doubling, Karp-Rabin: https://www.youtube.com/watch?v=BRO7mVIFt08&index=9&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
+        - [] Open Addressing, Cryptographic Hashing: https://www.youtube.com/watch?v=rvdJDijO2Ro&index=10&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
+        - [] PyCon 2010: The Mighty Dictionary: https://www.youtube.com/watch?v=C4Kc8xzcA68
+        - [] (Advanced) Randomization: Universal & Perfect Hashing: https://www.youtube.com/watch?v=z0lJ2k0sl1g&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=11
+        - [] (Advanced) Perfect hashing: https://www.youtube.com/watch?v=N0COwN14gt0&list=PL2B4EEwhKD-NbwZ4ezj7gyc_3yNrojKM9&index=4
     
-    - [x] Online Courses:
-        - [x] https://www.lynda.com/Developer-Programming-Foundations-tutorials/Understanding-hash-functions/149042/177126-4.html
-        - [x] https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-hash-tables/149042/177127-4.html
-        - [x] https://www.lynda.com/Developer-Programming-Foundations-tutorials/Supporting-hashing/149042/177128-4.html
-        - [x] https://www.lynda.com/Developer-Programming-Foundations-tutorials/Language-support-hash-tables/149042/177129-4.html
-        - [x] https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/m7UuP/core-hash-tables
-        - [x] https://www.coursera.org/learn/data-structures/home/week/3
-        - [x] https://www.coursera.org/learn/data-structures/lecture/NYZZP/phone-book-problem
-        - [x] distributed hash tables:
+    - [] Online Courses:
+        - [] https://www.lynda.com/Developer-Programming-Foundations-tutorials/Understanding-hash-functions/149042/177126-4.html
+        - [] https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-hash-tables/149042/177127-4.html
+        - [] https://www.lynda.com/Developer-Programming-Foundations-tutorials/Supporting-hashing/149042/177128-4.html
+        - [] https://www.lynda.com/Developer-Programming-Foundations-tutorials/Language-support-hash-tables/149042/177129-4.html
+        - [] https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/m7UuP/core-hash-tables
+        - [] https://www.coursera.org/learn/data-structures/home/week/3
+        - [] https://www.coursera.org/learn/data-structures/lecture/NYZZP/phone-book-problem
+        - [] distributed hash tables:
             - https://www.coursera.org/learn/data-structures/lecture/DvaIb/instant-uploads-and-storage-optimization-in-dropbox
             - https://www.coursera.org/learn/data-structures/lecture/tvH8H/distributed-hash-tables
     
-    - [x] implement with array using linear probing
+    - [] implement with array using linear probing
         - hash(k, m) - m is size of hash table
         - add(key, value) - if key already exists, update value
         - exists(key)
@@ -463,52 +463,52 @@ Then test it out on a computer to make sure it's not buggy from syntax.
 ## More Knowledge
 
 - ### Endianness
-    - [x] https://www.cs.umd.edu/class/sum2003/cmsc311/Notes/Data/endian.html
-    - [x] https://www.youtube.com/watch?v=JrNF0KRAlyo
-    - [x] https://www.youtube.com/watch?v=oBSuXP-1Tc0
+    - [] https://www.cs.umd.edu/class/sum2003/cmsc311/Notes/Data/endian.html
+    - [] https://www.youtube.com/watch?v=JrNF0KRAlyo
+    - [] https://www.youtube.com/watch?v=oBSuXP-1Tc0
         - Very technical talk for kernel devs. Don't worry if most is over your head.
         - The first half is enough.
 
 - ### Binary search
-    - [x] https://www.youtube.com/watch?v=D5SrAga1pno
-    - [x] https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search
-    - [x] detail: https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/
-    - [x] Implement:
+    - [] https://www.youtube.com/watch?v=D5SrAga1pno
+    - [] https://www.khanacademy.org/computing/computer-science/algorithms/binary-search/a/binary-search
+    - [] detail: https://www.topcoder.com/community/data-science/data-science-tutorials/binary-search/
+    - [] Implement:
         - binary search (on sorted array of integers)
         - binary search using recursion
 
 - ### Bitwise operations
-    - [x] [Bits cheat sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/bits-cheat-cheet.pdf) - you should know many of the powers of 2 from (2^1 to 2^16 and 2^32)
-    - [x] Get a really good understanding of manipulating bits with: &, |, ^, ~, >>, <<
-        - [x] words: https://en.wikipedia.org/wiki/Word_(computer_architecture)
-        - [x] Good intro:
+    - [] [Bits cheat sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/bits-cheat-cheet.pdf) - you should know many of the powers of 2 from (2^1 to 2^16 and 2^32)
+    - [] Get a really good understanding of manipulating bits with: &, |, ^, ~, >>, <<
+        - [] words: https://en.wikipedia.org/wiki/Word_(computer_architecture)
+        - [] Good intro:
             https://www.youtube.com/watch?v=7jkIUgLC29I
-        - [x] https://www.youtube.com/watch?v=d0AwjSpNXR0
-        - [x] https://en.wikipedia.org/wiki/Bit_manipulation
-        - [x] https://en.wikipedia.org/wiki/Bitwise_operation
-        - [x] https://graphics.stanford.edu/~seander/bithacks.html
-        - [x] http://bits.stephan-brumme.com/
-        - [x] http://bits.stephan-brumme.com/interactive.html
-    - [x] 2s and 1s complement
+        - [] https://www.youtube.com/watch?v=d0AwjSpNXR0
+        - [] https://en.wikipedia.org/wiki/Bit_manipulation
+        - [] https://en.wikipedia.org/wiki/Bitwise_operation
+        - [] https://graphics.stanford.edu/~seander/bithacks.html
+        - [] http://bits.stephan-brumme.com/
+        - [] http://bits.stephan-brumme.com/interactive.html
+    - [] 2s and 1s complement
         - https://www.youtube.com/watch?v=lKTsv6iVxV4
         - https://en.wikipedia.org/wiki/Ones%27_complement
         - https://en.wikipedia.org/wiki/Two%27s_complement
-    - [x] count set bits
+    - [] count set bits
         - https://youtu.be/Hzuzo9NJrlc
         - https://graphics.stanford.edu/~seander/bithacks.html#CountBitsSetKernighan
         - http://stackoverflow.com/questions/109023/how-to-count-the-number-of-set-bits-in-a-32-bit-integer
-    - [x] round to next power of 2:
+    - [] round to next power of 2:
         - http://bits.stephan-brumme.com/roundUpToNextPowerOfTwo.html
-    - [x] swap values:
+    - [] swap values:
         - http://bits.stephan-brumme.com/swap.html
-    - [x] absolute value:
+    - [] absolute value:
         - http://bits.stephan-brumme.com/absInteger.html
 
 ## Trees
 
 - ### Trees - Notes & Background
-    - [x] Series: https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/ovovP/core-trees
-    - [x] Series: https://www.coursera.org/learn/data-structures/lecture/95qda/trees
+    - [] Series: https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/ovovP/core-trees
+    - [] Series: https://www.coursera.org/learn/data-structures/lecture/95qda/trees
     - basic tree construction
     - traversal
     - manipulation algorithms
@@ -529,78 +529,78 @@ Then test it out on a computer to make sure it's not buggy from syntax.
         - preorder (DFS: self, left, right)
 
 - ### Binary search trees: BSTs
-    - [x] Binary Search Tree Review: https://www.youtube.com/watch?v=x6At0nzX92o&index=1&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6
-    - [x] Series: https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/p82sw/core-introduction-to-binary-search-trees
+    - [] Binary Search Tree Review: https://www.youtube.com/watch?v=x6At0nzX92o&index=1&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6
+    - [] Series: https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/p82sw/core-introduction-to-binary-search-trees
         - starts with symbol table and goes through BST applications
-    - [x] https://www.coursera.org/learn/data-structures/lecture/E7cXP/introduction
-    - [x] MIT: https://www.youtube.com/watch?v=9Jry5-82I68
+    - [] https://www.coursera.org/learn/data-structures/lecture/E7cXP/introduction
+    - [] MIT: https://www.youtube.com/watch?v=9Jry5-82I68
     - C/C++:
-        - [x] https://www.youtube.com/watch?v=COZK7NATh4k&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=28
-        - [x] https://www.youtube.com/watch?v=hWokyBoo0aI&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=29
-        - [x] https://www.youtube.com/watch?v=Ut90klNN264&index=30&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P
-        - [x] https://www.youtube.com/watch?v=_pnqMz5nrRs&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=31
-        - [x] https://www.youtube.com/watch?v=9RHO6jU--GU&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=32
-        - [x] https://www.youtube.com/watch?v=86g8jAQug04&index=33&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P
-        - [x] https://www.youtube.com/watch?v=gm8DUJJhmY4&index=34&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P
-        - [x] https://www.youtube.com/watch?v=yEwSGhSsT0U&index=35&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P
-        - [x] https://www.youtube.com/watch?v=gcULXE7ViZw&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=36
-        - [x] https://www.youtube.com/watch?v=5cPbNCrdotA&index=37&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P
-    - [x] Implement:
-        - [x] insert    // insert value into tree
-        - [x] get_node_count // get count of values stored
-        - [x] print_values // prints the values in the tree, from min to max
-        - [x] delete_tree
-        - [x] is_in_tree // returns true if given value exists in the tree
-        - [x] get_height // returns the height in nodes (single node's height is 1)
-        - [x] get_min   // returns the minimum value stored in the tree
-        - [x] get_max   // returns the maximum value stored in the tree
-        - [x] is_binary_search_tree
-        - [x] delete_value
-        - [x] get_successor // returns next-highest value in tree after given value, -1 if none
+        - [] https://www.youtube.com/watch?v=COZK7NATh4k&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=28
+        - [] https://www.youtube.com/watch?v=hWokyBoo0aI&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=29
+        - [] https://www.youtube.com/watch?v=Ut90klNN264&index=30&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P
+        - [] https://www.youtube.com/watch?v=_pnqMz5nrRs&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=31
+        - [] https://www.youtube.com/watch?v=9RHO6jU--GU&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=32
+        - [] https://www.youtube.com/watch?v=86g8jAQug04&index=33&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P
+        - [] https://www.youtube.com/watch?v=gm8DUJJhmY4&index=34&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P
+        - [] https://www.youtube.com/watch?v=yEwSGhSsT0U&index=35&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P
+        - [] https://www.youtube.com/watch?v=gcULXE7ViZw&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P&index=36
+        - [] https://www.youtube.com/watch?v=5cPbNCrdotA&index=37&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P
+    - [] Implement:
+        - [] insert    // insert value into tree
+        - [] get_node_count // get count of values stored
+        - [] print_values // prints the values in the tree, from min to max
+        - [] delete_tree
+        - [] is_in_tree // returns true if given value exists in the tree
+        - [] get_height // returns the height in nodes (single node's height is 1)
+        - [] get_min   // returns the minimum value stored in the tree
+        - [] get_max   // returns the maximum value stored in the tree
+        - [] is_binary_search_tree
+        - [] delete_value
+        - [] get_successor // returns next-highest value in tree after given value, -1 if none
 
 - ### Heap / Priority Queue / Binary Heap
     - visualized as a tree, but is usually linear in storage (array, linked list)
-    - [x] https://en.wikipedia.org/wiki/Heap_(data_structure)
-    - [x] https://www.coursera.org/learn/data-structures/lecture/2OpTs/introduction
-    - [x] https://www.coursera.org/learn/data-structures/lecture/z3l9N/naive-implementations
-    - [x] https://www.coursera.org/learn/data-structures/lecture/GRV2q/binary-trees
-    - [x] https://www.coursera.org/learn/data-structures/supplement/S5xxz/tree-height-remark
-    - [x] https://www.coursera.org/learn/data-structures/lecture/GRV2q/binary-trees
-    - [x] https://www.coursera.org/learn/data-structures/lecture/0g1dl/basic-operations
-    - [x] https://www.coursera.org/learn/data-structures/lecture/gl5Ni/complete-binary-trees
-    - [x] https://www.coursera.org/learn/data-structures/lecture/HxQo9/pseudocode
-    - [x] Heap Sort - jumps to start: https://youtu.be/odNJmw5TOEE?list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&t=3291
-    - [x] Heap Sort: https://www.coursera.org/learn/data-structures/lecture/hSzMO/heap-sort
-    - [x] Building a heap: https://www.coursera.org/learn/data-structures/lecture/dwrOS/building-a-heap
-    - [x] MIT: Heaps and Heap Sort: https://www.youtube.com/watch?v=B7hVxCmfPtM&index=4&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
-    - [x] CS 61B Lecture 24: Priority Queues: https://www.youtube.com/watch?v=yIUFT6AKBGE&index=24&list=PL4BBB74C7D2A1049C
-    - [x] Linear Time BuildHeap (max-heap): https://www.youtube.com/watch?v=MiyLo8adrWw
-    - [x] Implement a max-heap:
-        - [x] insert
-        - [x] sift_up - needed for insert
-        - [x] get_max - returns the max item, without removing it
-        - [x] get_size() - return number of elements stored
-        - [x] is_empty() - returns true if heap contains no elements
-        - [x] extract_max - returns the max item, removing it
-        - [x] sift_down - needed for extract_max
-        - [x] remove(i) - removes item at index x
-        - [x] heapify - create a heap from an array of elements, needed for heap_sort
-        - [x] heap_sort() - take an unsorted array and turn it into a sorted array in-place using a max heap
+    - [] https://en.wikipedia.org/wiki/Heap_(data_structure)
+    - [] https://www.coursera.org/learn/data-structures/lecture/2OpTs/introduction
+    - [] https://www.coursera.org/learn/data-structures/lecture/z3l9N/naive-implementations
+    - [] https://www.coursera.org/learn/data-structures/lecture/GRV2q/binary-trees
+    - [] https://www.coursera.org/learn/data-structures/supplement/S5xxz/tree-height-remark
+    - [] https://www.coursera.org/learn/data-structures/lecture/GRV2q/binary-trees
+    - [] https://www.coursera.org/learn/data-structures/lecture/0g1dl/basic-operations
+    - [] https://www.coursera.org/learn/data-structures/lecture/gl5Ni/complete-binary-trees
+    - [] https://www.coursera.org/learn/data-structures/lecture/HxQo9/pseudocode
+    - [] Heap Sort - jumps to start: https://youtu.be/odNJmw5TOEE?list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&t=3291
+    - [] Heap Sort: https://www.coursera.org/learn/data-structures/lecture/hSzMO/heap-sort
+    - [] Building a heap: https://www.coursera.org/learn/data-structures/lecture/dwrOS/building-a-heap
+    - [] MIT: Heaps and Heap Sort: https://www.youtube.com/watch?v=B7hVxCmfPtM&index=4&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
+    - [] CS 61B Lecture 24: Priority Queues: https://www.youtube.com/watch?v=yIUFT6AKBGE&index=24&list=PL4BBB74C7D2A1049C
+    - [] Linear Time BuildHeap (max-heap): https://www.youtube.com/watch?v=MiyLo8adrWw
+    - [] Implement a max-heap:
+        - [] insert
+        - [] sift_up - needed for insert
+        - [] get_max - returns the max item, without removing it
+        - [] get_size() - return number of elements stored
+        - [] is_empty() - returns true if heap contains no elements
+        - [] extract_max - returns the max item, removing it
+        - [] sift_down - needed for extract_max
+        - [] remove(i) - removes item at index x
+        - [] heapify - create a heap from an array of elements, needed for heap_sort
+        - [] heap_sort() - take an unsorted array and turn it into a sorted array in-place using a max heap
             - note: using a min heap instead would save operations, but double the space needed (cannot do in-place).
 
 - ### Tries
     - Note there are different kinds of tries. Some have prefixes, some don't, and some use string instead of bits
         to track the path.
     - I read through code, but will not implement.
-    - [x] http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html#Tries
-    - [x] Short course videos:
-        - [x] https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/08Xyf/core-introduction-to-tries
-        - [x] https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/PvlZW/core-performance-of-tries
-        - [x] https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/DFvd3/core-implementing-a-trie
-    - [x] The Trie: A Neglected Data Structure: https://www.toptal.com/java/the-trie-a-neglected-data-structure
-    - [x] TopCoder - Using Tries: https://www.topcoder.com/community/data-science/data-science-tutorials/using-tries/
-    - [x] Stanford Lecture (real world use case): https://www.youtube.com/watch?v=TJ8SkcUSdbU
-    - [x] MIT, Advanced Data Structures, Strings (can get pretty obscure about halfway through): https://www.youtube.com/watch?v=NinWEPPrkDQ&index=16&list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf
+    - [] http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html#Tries
+    - [] Short course videos:
+        - [] https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/08Xyf/core-introduction-to-tries
+        - [] https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/PvlZW/core-performance-of-tries
+        - [] https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/DFvd3/core-implementing-a-trie
+    - [] The Trie: A Neglected Data Structure: https://www.toptal.com/java/the-trie-a-neglected-data-structure
+    - [] TopCoder - Using Tries: https://www.topcoder.com/community/data-science/data-science-tutorials/using-tries/
+    - [] Stanford Lecture (real world use case): https://www.youtube.com/watch?v=TJ8SkcUSdbU
+    - [] MIT, Advanced Data Structures, Strings (can get pretty obscure about halfway through): https://www.youtube.com/watch?v=NinWEPPrkDQ&index=16&list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf
 
 - ### Balanced search trees
     - Know least one type of balanced binary tree (and know how it's implemented):
@@ -614,64 +614,64 @@ Then test it out on a computer to make sure it's not buggy from syntax.
         If you end up implementing red/black tree try just these:
         - search and insertion functions, skipping delete
     - I want to learn more about B-Tree since it's used so widely with very large data sets.
-    - [x] Self-balancing binary search tree: https://en.wikipedia.org/wiki/Self-balancing_binary_search_tree
+    - [] Self-balancing binary search tree: https://en.wikipedia.org/wiki/Self-balancing_binary_search_tree
 
-    - [x] **AVL trees**
+    - [] **AVL trees**
         - In practice:
             From what I can tell, these aren't used much in practice, but I could see where they would be:
             The AVL tree is another structure supporting O(log n) search, insertion, and removal. It is more rigidly
             balanced than red–black trees, leading to slower insertion and removal but faster retrieval. This makes it
             attractive for data structures that may be built once and loaded without reconstruction, such as language
             dictionaries (or program dictionaries, such as the opcodes of an assembler or interpreter).
-        - [x] MIT AVL Trees / AVL Sort: https://www.youtube.com/watch?v=FNeL18KsWPc&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=6
-        - [x] https://www.coursera.org/learn/data-structures/lecture/Qq5E0/avl-trees
-        - [x] https://www.coursera.org/learn/data-structures/lecture/PKEBC/avl-tree-implementation
-        - [x] https://www.coursera.org/learn/data-structures/lecture/22BgE/split-and-merge
+        - [] MIT AVL Trees / AVL Sort: https://www.youtube.com/watch?v=FNeL18KsWPc&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=6
+        - [] https://www.coursera.org/learn/data-structures/lecture/Qq5E0/avl-trees
+        - [] https://www.coursera.org/learn/data-structures/lecture/PKEBC/avl-tree-implementation
+        - [] https://www.coursera.org/learn/data-structures/lecture/22BgE/split-and-merge
 
-    - [x] **Splay trees**
+    - [] **Splay trees**
         - In practice:
             Splay trees are typically used in the implementation of caches, memory allocators, routers, garbage collectors,
             data compression, ropes (replacement of string used for long text strings), in Windows NT (in the virtual memory,
             networking, and file system code) etc.
-        - [x] CS 61B: Splay Trees: https://www.youtube.com/watch?v=Najzh1rYQTo&index=23&list=PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd
-        - [x] MIT Lecture: Splay Trees:
+        - [] CS 61B: Splay Trees: https://www.youtube.com/watch?v=Najzh1rYQTo&index=23&list=PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd
+        - [] MIT Lecture: Splay Trees:
                 - Gets very mathy, but watch the last 10 minutes for sure.
                 - https://www.youtube.com/watch?v=QnPl_Y6EqMo
 
-    - [x] **2-3 search trees**
+    - [] **2-3 search trees**
         - In practice:
             2-3 trees have faster inserts at the expense of slower searches (since height is more compared to AVL trees).
         - You would use 2-3 tree very rarely because its implementation involves different types of nodes. Instead, people use Red Black trees.
-        - [x] 23-Tree Intuition and Definition: https://www.youtube.com/watch?v=C3SsdUqasD4&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6&index=2
-        - [x] Binary View of 23-Tree: https://www.youtube.com/watch?v=iYvBtGKsqSg&index=3&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6
-        - [x] 2-3 Trees (student recitation): https://www.youtube.com/watch?v=TOb1tuEZ2X4&index=5&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp
+        - [] 23-Tree Intuition and Definition: https://www.youtube.com/watch?v=C3SsdUqasD4&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6&index=2
+        - [] Binary View of 23-Tree: https://www.youtube.com/watch?v=iYvBtGKsqSg&index=3&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6
+        - [] 2-3 Trees (student recitation): https://www.youtube.com/watch?v=TOb1tuEZ2X4&index=5&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp
 
-    - [x] **2-3-4 Trees (aka 2-4 trees)**
+    - [] **2-3-4 Trees (aka 2-4 trees)**
         - In practice:
             For every 2-4 tree, there are corresponding red–black trees with data elements in the same order. The insertion and deletion
             operations on 2-4 trees are also equivalent to color-flipping and rotations in red–black trees. This makes 2-4 trees an
             important tool for understanding the logic behind red–black trees, and this is why many introductory algorithm texts introduce
             2-4 trees just before red–black trees, even though **2-4 trees are not often used in practice**.
-        - [x] CS 61B Lecture 26: Balanced Search Trees: https://www.youtube.com/watch?v=zqrqYXkth6Q&index=26&list=PL4BBB74C7D2A1049C
-        - [x] Bottom Up 234-Trees: https://www.youtube.com/watch?v=DQdMYevEyE4&index=4&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6
-        - [x] Top Down 234-Trees: https://www.youtube.com/watch?v=2679VQ26Fp4&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6&index=5
+        - [] CS 61B Lecture 26: Balanced Search Trees: https://www.youtube.com/watch?v=zqrqYXkth6Q&index=26&list=PL4BBB74C7D2A1049C
+        - [] Bottom Up 234-Trees: https://www.youtube.com/watch?v=DQdMYevEyE4&index=4&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6
+        - [] Top Down 234-Trees: https://www.youtube.com/watch?v=2679VQ26Fp4&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6&index=5
 
-    - [x] **B-Trees**
+    - [] **B-Trees**
         - fun fact: it's a mystery, but the B could stand for Boeing, Balanced, or Bayer (co-inventor)
         - In Practice:
             B-Trees are widely used in databases. Most modern filesystems use B-trees (or Variants). In addition to
             its use in databases, the B-tree is also used in filesystems to allow quick random access to an arbitrary
             block in a particular file. The basic problem is turning the file block i address into a disk block
             (or perhaps to a cylinder-head-sector) address.
-        - [x] B-Tree: https://en.wikipedia.org/wiki/B-tree
-        - [x] Introduction to B-Trees: https://www.youtube.com/watch?v=I22wEC1tTGo&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6&index=6
-        - [x] B-Tree Definition and Insertion: https://www.youtube.com/watch?v=s3bCdZGrgpA&index=7&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6
-        - [x] B-Tree Deletion: https://www.youtube.com/watch?v=svfnVhJOfMc&index=8&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6
-        - [x] MIT 6.851 - Memory Hierarchy Models: https://www.youtube.com/watch?v=V3omVLzI0WE&index=7&list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf
+        - [] B-Tree: https://en.wikipedia.org/wiki/B-tree
+        - [] Introduction to B-Trees: https://www.youtube.com/watch?v=I22wEC1tTGo&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6&index=6
+        - [] B-Tree Definition and Insertion: https://www.youtube.com/watch?v=s3bCdZGrgpA&index=7&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6
+        - [] B-Tree Deletion: https://www.youtube.com/watch?v=svfnVhJOfMc&index=8&list=PLA5Lqm4uh9Bbq-E0ZnqTIa8LRaL77ica6
+        - [] MIT 6.851 - Memory Hierarchy Models: https://www.youtube.com/watch?v=V3omVLzI0WE&index=7&list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf
                 - covers cache-oblivious B-Trees, very interesting data structures
                 - the first 37 minutes are very technical, may be skipped (B is block size, cache line size)
 
-    - [x] **Red/black trees**
+    - [] **Red/black trees**
         - In practice:
             Red–black trees offer worst-case guarantees for insertion time, deletion time, and search time.
             Not only does this make them valuable in time-sensitive applications such as real-time applications,
@@ -680,82 +680,82 @@ Then test it out on a computer to make sure it's not buggy from syntax.
             the Completely Fair Scheduler used in current Linux kernels uses red–black trees. In the version 8 of Java,
             the Collection HashMap has been modified such that instead of using a LinkedList to store identical elements with poor
             hashcodes, a Red-Black tree is used.
-        - [x] Aduni - Algorithms - Lecture 4
+        - [] Aduni - Algorithms - Lecture 4
             link jumps to starting point:
             https://youtu.be/1W3x0f_RmUo?list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&t=3871
-        - [x] Aduni - Algorithms - Lecture 5: https://www.youtube.com/watch?v=hm2GHwyKF1o&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=5
-        - [x] https://en.wikipedia.org/wiki/Red%E2%80%93black_tree
-        - [x] https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-binary-search-and-red-black-trees/
+        - [] Aduni - Algorithms - Lecture 5: https://www.youtube.com/watch?v=hm2GHwyKF1o&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=5
+        - [] https://en.wikipedia.org/wiki/Red%E2%80%93black_tree
+        - [] https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-binary-search-and-red-black-trees/
 
 - ### N-ary (K-ary, M-ary) trees
     - note: the N or K is the branching factor (max branches)
         - binary trees are a 2-ary tree, with branching factor = 2
         - 2-3 trees are 3-ary
-    - [x] https://en.wikipedia.org/wiki/K-ary_tree
+    - [] https://en.wikipedia.org/wiki/K-ary_tree
 
 ## Sorting
 
-- [x] Notes:
+- [] Notes:
     - Implement sorts & know best case/worst case, average complexity of each:
         - no bubble sort - it's terrible - O(n^2), except when n <= 16
-    - [x] stability in sorting algorithms ("Is Quicksort stable?")
+    - [] stability in sorting algorithms ("Is Quicksort stable?")
         - https://en.wikipedia.org/wiki/Sorting_algorithm#Stability
         - http://stackoverflow.com/questions/1517793/stability-in-sorting-algorithms
         - http://www.geeksforgeeks.org/stability-in-sorting-algorithms/
         - http://homepages.math.uic.edu/~leon/cs-mcs401-s08/handouts/stability.pdf
-    - [x] Which algorithms can be used on linked lists? Which on arrays? Which on both?
+    - [] Which algorithms can be used on linked lists? Which on arrays? Which on both?
         - I wouldn't recommend sorting a linked list, but merge sort is doable.
         - http://www.geeksforgeeks.org/merge-sort-for-linked-list/
 
 - For heapsort, see Heap data structure above. Heap sort is great, but not stable.
 
-- [x] Bubble Sort: https://www.youtube.com/watch?v=P00xJgWzz2c&index=1&list=PL89B61F78B552C1AB
-- [x] Analyzing Bubble Sort: https://www.youtube.com/watch?v=ni_zk257Nqo&index=7&list=PL89B61F78B552C1AB
-- [x] Insertion Sort, Merge Sort: https://www.youtube.com/watch?v=Kg4bqzAqRBM&index=3&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
-- [x] Insertion Sort: https://www.youtube.com/watch?v=c4BRHC7kTaQ&index=2&list=PL89B61F78B552C1AB
-- [x] Merge Sort: https://www.youtube.com/watch?v=GCae1WNvnZM&index=3&list=PL89B61F78B552C1AB
-- [x] Quicksort: https://www.youtube.com/watch?v=y_G9BkAm6B8&index=4&list=PL89B61F78B552C1AB
-- [x] Selection Sort: https://www.youtube.com/watch?v=6nDMgr0-Yyo&index=8&list=PL89B61F78B552C1AB
+- [] Bubble Sort: https://www.youtube.com/watch?v=P00xJgWzz2c&index=1&list=PL89B61F78B552C1AB
+- [] Analyzing Bubble Sort: https://www.youtube.com/watch?v=ni_zk257Nqo&index=7&list=PL89B61F78B552C1AB
+- [] Insertion Sort, Merge Sort: https://www.youtube.com/watch?v=Kg4bqzAqRBM&index=3&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
+- [] Insertion Sort: https://www.youtube.com/watch?v=c4BRHC7kTaQ&index=2&list=PL89B61F78B552C1AB
+- [] Merge Sort: https://www.youtube.com/watch?v=GCae1WNvnZM&index=3&list=PL89B61F78B552C1AB
+- [] Quicksort: https://www.youtube.com/watch?v=y_G9BkAm6B8&index=4&list=PL89B61F78B552C1AB
+- [] Selection Sort: https://www.youtube.com/watch?v=6nDMgr0-Yyo&index=8&list=PL89B61F78B552C1AB
 
-- [x] Stanford lectures on sorting:
-    - [x] https://www.youtube.com/watch?v=ENp00xylP7c&index=15&list=PLFE6E58F856038C69
-    - [x] https://www.youtube.com/watch?v=y4M9IVgrVKo&index=16&list=PLFE6E58F856038C69
+- [] Stanford lectures on sorting:
+    - [] https://www.youtube.com/watch?v=ENp00xylP7c&index=15&list=PLFE6E58F856038C69
+    - [] https://www.youtube.com/watch?v=y4M9IVgrVKo&index=16&list=PLFE6E58F856038C69
 
-- [x] Shai Simonson, [Aduni.org](http://www.aduni.org/):
-    - [x] https://www.youtube.com/watch?v=odNJmw5TOEE&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=2
-    - [x] https://www.youtube.com/watch?v=hj8YKFTFKEE&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=3
+- [] Shai Simonson, [Aduni.org](http://www.aduni.org/):
+    - [] https://www.youtube.com/watch?v=odNJmw5TOEE&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=2
+    - [] https://www.youtube.com/watch?v=hj8YKFTFKEE&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=3
 
-- [x] Steven Skiena lectures on sorting:
-    - [x] lecture begins at 26:46: https://youtu.be/ute-pmMkyuk?list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b&t=1600
-    - [x] lecture begins at 27:40: https://www.youtube.com/watch?v=yLvp-pB8mak&index=8&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b
-    - [x] lecture begins at 35:00: https://www.youtube.com/watch?v=q7K9otnzlfE&index=9&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b
-    - [x] lecture begins at 23:50: https://www.youtube.com/watch?v=TvqIGu9Iupw&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b&index=10
+- [] Steven Skiena lectures on sorting:
+    - [] lecture begins at 26:46: https://youtu.be/ute-pmMkyuk?list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b&t=1600
+    - [] lecture begins at 27:40: https://www.youtube.com/watch?v=yLvp-pB8mak&index=8&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b
+    - [] lecture begins at 35:00: https://www.youtube.com/watch?v=q7K9otnzlfE&index=9&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b
+    - [] lecture begins at 23:50: https://www.youtube.com/watch?v=TvqIGu9Iupw&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b&index=10
 
-- [x] UC Berkeley:
-    - [x] CS 61B Lecture 29: Sorting I: https://www.youtube.com/watch?v=EiUvYS2DT6I&list=PL4BBB74C7D2A1049C&index=29
-    - [x] CS 61B Lecture 30: Sorting II: https://www.youtube.com/watch?v=2hTY3t80Qsk&list=PL4BBB74C7D2A1049C&index=30
-    - [x] CS 61B Lecture 32: Sorting III: https://www.youtube.com/watch?v=Y6LOLpxg6Dc&index=32&list=PL4BBB74C7D2A1049C
-    - [x] CS 61B Lecture 33: Sorting V: https://www.youtube.com/watch?v=qNMQ4ly43p4&index=33&list=PL4BBB74C7D2A1049C
+- [] UC Berkeley:
+    - [] CS 61B Lecture 29: Sorting I: https://www.youtube.com/watch?v=EiUvYS2DT6I&list=PL4BBB74C7D2A1049C&index=29
+    - [] CS 61B Lecture 30: Sorting II: https://www.youtube.com/watch?v=2hTY3t80Qsk&list=PL4BBB74C7D2A1049C&index=30
+    - [] CS 61B Lecture 32: Sorting III: https://www.youtube.com/watch?v=Y6LOLpxg6Dc&index=32&list=PL4BBB74C7D2A1049C
+    - [] CS 61B Lecture 33: Sorting V: https://www.youtube.com/watch?v=qNMQ4ly43p4&index=33&list=PL4BBB74C7D2A1049C
 
-- [x] - Merge sort code:
-    - [x] Using output array: http://www.cs.yale.edu/homes/aspnes/classes/223/examples/sorting/mergesort.c
-    - [x] In-place: https://github.com/jwasham/practice-cpp/blob/master/merge_sort/merge_sort.cc
-- [x] - Quick sort code:
-    - [x] http://www.cs.yale.edu/homes/aspnes/classes/223/examples/randomization/quick.c
-    - [x] https://github.com/jwasham/practice-c/blob/master/quick_sort/quick_sort.c
+- [] - Merge sort code:
+    - [] Using output array: http://www.cs.yale.edu/homes/aspnes/classes/223/examples/sorting/mergesort.c
+    - [] In-place: https://github.com/jwasham/practice-cpp/blob/master/merge_sort/merge_sort.cc
+- [] - Quick sort code:
+    - [] http://www.cs.yale.edu/homes/aspnes/classes/223/examples/randomization/quick.c
+    - [] https://github.com/jwasham/practice-c/blob/master/quick_sort/quick_sort.c
 
-- [x] Implement:
-    - [x] Mergesort: O(n log n) average and worst case
-    - [x] Quicksort O(n log n) average case
+- [] Implement:
+    - [] Mergesort: O(n log n) average and worst case
+    - [] Quicksort O(n log n) average case
     - Selection sort and insertion sort are both O(n^2) average and worst case
     - For heapsort, see Heap data structure above.
 
-- [x] For curiosity - not required:
-    - [x] Radix Sort: http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html#radixSort
-    - [x] Radix Sort: https://www.youtube.com/watch?v=xhr26ia4k38
-    - [x] Radix Sort, Counting Sort (linear time given constraints): https://www.youtube.com/watch?v=Nz1KZXbghj8&index=7&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
-    - [x] Randomization: Matrix Multiply, Quicksort, Freivalds' algorithm: https://www.youtube.com/watch?v=cNB2lADK3_s&index=8&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp
-    - [x] Sorting in Linear Time: https://www.youtube.com/watch?v=pOKy3RZbSws&list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf&index=14
+- [] For curiosity - not required:
+    - [] Radix Sort: http://www.cs.yale.edu/homes/aspnes/classes/223/notes.html#radixSort
+    - [] Radix Sort: https://www.youtube.com/watch?v=xhr26ia4k38
+    - [] Radix Sort, Counting Sort (linear time given constraints): https://www.youtube.com/watch?v=Nz1KZXbghj8&index=7&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
+    - [] Randomization: Matrix Multiply, Quicksort, Freivalds' algorithm: https://www.youtube.com/watch?v=cNB2lADK3_s&index=8&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp
+    - [] Sorting in Linear Time: https://www.youtube.com/watch?v=pOKy3RZbSws&list=PLUl4u3cNGP61hsJNdULdudlRL493b-XZf&index=14
 
 ## Graphs
 
